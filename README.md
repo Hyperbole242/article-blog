@@ -24,13 +24,4 @@ Cette première version est développée **uniquement en HTML**, sans feuille de
 * Barre latérale (articles récents)
 * Pied de page
 
-## Évolution du projet
 
-Ce projet constitue la **première étape** de sa réalisation. Lors des prochaines semaines de formation, il sera progressivement enrichi avec :
-
-* la mise en forme en CSS ;
-* une mise en page responsive ;
-* des améliorations visuelles et ergonomiques ;
-* de nouvelles fonctionnalités si nécessaire.
-
-L'objectif est de transformer progressivement cette structure HTML en une page de blog moderne, esthétique et entièrement responsive.
